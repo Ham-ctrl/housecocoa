@@ -1,0 +1,28 @@
+{
+  "name": "housecocoa",
+  "version": "1.0.0",
+  "description": "simple app on heroku",
+  "main": "serva.js",
+  "scripts": {
+    "start": "node serva.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ham-ctrl/housecocoa.git"
+  },
+  "keywords": [
+    "heroku",
+    "simple",
+    "app"
+  ],
+  "author": "ham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ham-ctrl/housecocoa/issues"
+  },
+  "homepage": "https://github.com/Ham-ctrl/housecocoa#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
